@@ -1,6 +1,6 @@
 # Hyperblog 💚
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-Creado por el team platzi
+Creado por el team platzi, incluye ejemplos en windows, linux y mac
 > Hola, si estas leyendo esto significa que de alguna forma me encontraste, espero que hayas visto lo que aprendi ^^
 
 ![](https://ar.pinterest.com/pin/557250153901876250/)
